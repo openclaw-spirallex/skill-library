@@ -2,7 +2,7 @@
   "slug": "claude-dispatch",
   "displayName": "Claude Dispatch",
   "summary": "Dispatch coding tasks to Claude Code CLI in background. Notifies Master via Telegram on completion. Supports /claude Telegram command, task queuing, model selection, and budget cap.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "spirallexai (ZERO)",
   "downloads": 0,
   "stars": 0,
