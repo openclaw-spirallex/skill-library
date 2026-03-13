@@ -1,0 +1,12 @@
+{
+  "slug": "snapog",
+  "displayName": "SnapOG",
+  "summary": "Generate social images and OG cards from professional templates via the SnapOG API. One API call = one pixel-perfect PNG.",
+  "version": "1.0.0",
+  "author": "beameasy",
+  "downloads": 503,
+  "stars": 0,
+  "updatedAt": 1773374460720,
+  "collectedAt": "2026-03-13T04:01:44.978899+00:00",
+  "hasWarnings": true
+}

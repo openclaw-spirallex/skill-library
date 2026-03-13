@@ -2,7 +2,7 @@
 
 > 自動蒐集自 [clawhub.com](https://clawhub.com)，每日 12:00 更新。
 > 所有 skill 均經過安全審查，含惡意程式碼、憑證外洩風險者已過濾。
-> 最後更新：**2026-03-13 01:56 UTC**　共 **29** 個 skills
+> 最後更新：**2026-03-13 04:01 UTC**　共 **31** 個 skills
 
 ## Skills
 
@@ -37,4 +37,6 @@ te | 1.0.0 | biostartechnology | 380 | 50253 |
 | [Himalaya](skills/himalaya) ⚠️ | CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply,  | 1.0.0 | lamelas | 50 | 26572 |
 | [Blogwatcher](skills/blogwatcher) ⚠️ | Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI. | 1.0.0 | steipete | 40 | 23839 |
 | [Outlook Graph](skills/outlook-graph) ⚠️ | Connect OpenClaw to Outlook and Microsoft Graph for email, calendar, contacts, a | 1.0.2 | c36025251-pixel | 2 | 30469 |
-| [Claude Dispatch](skills/claude-dispatch) 🏠 | Dispatch coding tasks to Claude Code CLI in background. Notifies Master via Tele | 1.0.0 | spirallexai (ZERO) | 0 | 0 |
+| [Claude Dispatch](skills/claude-dispatch) | Dispatch coding tasks to Claude Code CLI in background. Notifies Master via Tele | 1.1.0 | spirallexai (ZERO) | 0 | 0 |
+| [omarchy](skills/omarchy) ⚠️ | Omarchy operating guardrails for day-to-day system work: assume the host is Omar | 0.1.1 | AchalS-iglu | 0 | 524 |
+| [SnapOG](skills/snapog) ⚠️ | Generate social images and OG cards from professional templates via the SnapOG A | 1.0.0 | beameasy | 0 | 503 |

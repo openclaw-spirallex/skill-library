@@ -3,10 +3,12 @@
     "12306-train-assistant",
     "a-stock-review",
     "agent-browser",
+    "agentmesh",
     "alpaca-integration",
     "api-gateway",
     "auto-updater",
     "automation-workflows",
+    "axe-devtools",
     "baidu-search",
     "blogwatcher",
     "brave-search",
@@ -35,10 +37,12 @@
     "nexus-trust-score",
     "notion",
     "obsidian",
+    "omarchy",
     "ontology",
     "openai-whisper",
     "openclaw-youtube-transcript",
     "outlook-graph",
+    "plsreadme",
     "proactive-agent",
     "self-improving",
     "self-improving-agent",
@@ -46,6 +50,7 @@
     "skill-vetter",
     "skillforge-discovery",
     "slack",
+    "snapog",
     "sonoscli",
     "stock-analysis",
     "summarize",
@@ -55,9 +60,9 @@
     "youtube-super-chat-event",
     "youtube-watcher"
   ],
-  "last_run": "2026-03-13T01:49:07.206050+00:00",
+  "last_run": "2026-03-13T04:01:54.038916+00:00",
   "stats": {
-    "collected": 33,
-    "rejected": 21
+    "collected": 35,
+    "rejected": 24
   }
 }

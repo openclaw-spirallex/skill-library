@@ -1,0 +1,12 @@
+{
+  "slug": "omarchy",
+  "displayName": "omarchy",
+  "summary": "Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose Omarchy-native workflows first, map user intent to the correct omarchy-* wrapper/script family, and avoid generic Linux commands that conflict with Omarchy behavior. Use whenever handling local system tasks on this host unless the user explicitly says it is not Omarchy; prioritize safe Omarchy commands, prevent non-Omarchy shortcuts (e.g., ad-hoc process killing/relaunch patterns), troubleshoot desktop behavior, and validate the right script before execution.",
+  "version": "0.1.1",
+  "author": "AchalS-iglu",
+  "downloads": 524,
+  "stars": 0,
+  "updatedAt": 1773374468413,
+  "collectedAt": "2026-03-13T04:01:13.022312+00:00",
+  "hasWarnings": true
+}

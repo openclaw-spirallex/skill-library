@@ -75,7 +75,7 @@
     "slug": "claude-dispatch",
     "displayName": "Claude Dispatch",
     "summary": "Dispatch coding tasks to Claude Code CLI in background. Notifies Master via Telegram on completion. Supports /claude Telegram command, task queuing, model selection, and budget cap.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "spirallexai (ZERO)",
     "downloads": 0,
     "stars": 0,
@@ -217,6 +217,18 @@
     "hasWarnings": true
   },
   {
+    "slug": "omarchy",
+    "displayName": "omarchy",
+    "summary": "Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose Omarchy-native workflows first, map user intent to the correct omarchy-* wrapper/script family, and avoid generic Linux commands that conflict with Omarchy behavior. Use whenever handling local system tasks on this host unless the user explicitly says it is not Omarchy; prioritize safe Omarchy commands, prevent non-Omarchy shortcuts (e.g., ad-hoc process killing/relaunch patterns), troubleshoot desktop behavior, and validate the right script before execution.",
+    "version": "0.1.1",
+    "author": "AchalS-iglu",
+    "downloads": 524,
+    "stars": 0,
+    "updatedAt": 1773374468413,
+    "collectedAt": "2026-03-13T04:01:13.022312+00:00",
+    "hasWarnings": true
+  },
+  {
     "slug": "ontology",
     "displayName": "ontology",
     "summary": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
@@ -298,6 +310,18 @@
     "stars": 298,
     "updatedAt": 1772065836042,
     "collectedAt": "2026-03-13T01:36:21.695571+00:00",
+    "hasWarnings": true
+  },
+  {
+    "slug": "snapog",
+    "displayName": "SnapOG",
+    "summary": "Generate social images and OG cards from professional templates via the SnapOG API. One API call = one pixel-perfect PNG.",
+    "version": "1.0.0",
+    "author": "beameasy",
+    "downloads": 503,
+    "stars": 0,
+    "updatedAt": 1773374460720,
+    "collectedAt": "2026-03-13T04:01:44.978899+00:00",
     "hasWarnings": true
   },
   {
