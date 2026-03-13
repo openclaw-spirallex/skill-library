@@ -72,6 +72,19 @@
     "hasWarnings": true
   },
   {
+    "slug": "claude-dispatch",
+    "displayName": "Claude Dispatch",
+    "summary": "Dispatch coding tasks to Claude Code CLI in background. Notifies Master via Telegram on completion. Supports /claude Telegram command, task queuing, model selection, and budget cap.",
+    "version": "1.0.0",
+    "author": "spirallexai (ZERO)",
+    "downloads": 0,
+    "stars": 0,
+    "updatedAt": 1773366997525,
+    "collectedAt": "2026-03-13T01:56:37.525891+00:00",
+    "hasWarnings": false,
+    "source": "local"
+  },
+  {
     "slug": "clawddocs",
     "displayName": "Clawdbot Documentation Expert",
     "summary": "Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all Clawdbot features",
