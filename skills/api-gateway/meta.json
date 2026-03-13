@@ -1,0 +1,12 @@
+{
+  "slug": "api-gateway",
+  "displayName": "API Gateway",
+  "summary": "Connect to 100+ APIs (Google Workspace, Microsoft 365, GitHub, Notion, Slack, Airtable, HubSpot, etc.) with managed OAuth. Use this skill when users want to...",
+  "version": "1.0.67",
+  "author": "byungkyu",
+  "downloads": 41267,
+  "stars": 207,
+  "updatedAt": 1773314215262,
+  "collectedAt": "2026-03-13T01:45:16.922172+00:00",
+  "hasWarnings": true
+}

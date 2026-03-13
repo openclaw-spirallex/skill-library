@@ -1,0 +1,12 @@
+{
+  "slug": "auto-updater",
+  "displayName": "Auto-Updater Skill",
+  "summary": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+  "version": "1.0.0",
+  "author": "maximeprades",
+  "downloads": 40630,
+  "stars": 254,
+  "updatedAt": 1772074932947,
+  "collectedAt": "2026-03-13T01:45:23.859614+00:00",
+  "hasWarnings": true
+}

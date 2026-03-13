@@ -1,0 +1,12 @@
+{
+  "slug": "weather",
+  "displayName": "Weather",
+  "summary": "Get current weather and forecasts (no API key required).",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 87264,
+  "stars": 272,
+  "updatedAt": 1772616922629,
+  "collectedAt": "2026-03-13T01:36:15.550378+00:00",
+  "hasWarnings": true
+}

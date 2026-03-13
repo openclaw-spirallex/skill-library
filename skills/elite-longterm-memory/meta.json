@@ -1,0 +1,12 @@
+{
+  "slug": "elite-longterm-memory",
+  "displayName": "Elite Longterm Memory",
+  "summary": "Ultimate AI agent memory system for Cursor, Claude, ChatGPT & Copilot. WAL protocol + vector search + git-notes + cloud backup. Never lose context again. Vibe-coding ready.",
+  "version": "1.2.3",
+  "author": "NextFrontierBuilds",
+  "downloads": 28606,
+  "stars": 123,
+  "updatedAt": 1773285733180,
+  "collectedAt": "2026-03-13T01:46:50.522861+00:00",
+  "hasWarnings": true
+}

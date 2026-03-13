@@ -1,0 +1,12 @@
+{
+  "slug": "skill-creator",
+  "displayName": "Skill Creator",
+  "summary": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+  "version": "0.1.0",
+  "author": "chindden",
+  "downloads": 37368,
+  "stars": 127,
+  "updatedAt": 1773284926090,
+  "collectedAt": "2026-03-13T01:45:37.623244+00:00",
+  "hasWarnings": false
+}

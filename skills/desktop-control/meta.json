@@ -1,0 +1,12 @@
+{
+  "slug": "desktop-control",
+  "displayName": "Desktop Control",
+  "summary": "Advanced desktop automation with mouse, keyboard, and screen control",
+  "version": "1.0.0",
+  "author": "matagul",
+  "downloads": 26421,
+  "stars": 185,
+  "updatedAt": 1773286199057,
+  "collectedAt": "2026-03-13T01:48:36.999739+00:00",
+  "hasWarnings": true
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "openai-whisper",
+  "displayName": "Openai Whisper",
+  "summary": "Local speech-to-text with the Whisper CLI (no API key).",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 42786,
+  "stars": 198,
+  "updatedAt": 1772065840450,
+  "collectedAt": "2026-03-13T01:37:45.577377+00:00",
+  "hasWarnings": false
+}

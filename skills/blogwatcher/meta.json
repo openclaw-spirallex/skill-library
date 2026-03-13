@@ -1,0 +1,12 @@
+{
+  "slug": "blogwatcher",
+  "displayName": "Blogwatcher",
+  "summary": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 23839,
+  "stars": 40,
+  "updatedAt": 1772065840450,
+  "collectedAt": "2026-03-13T01:48:55.350738+00:00",
+  "hasWarnings": true
+}

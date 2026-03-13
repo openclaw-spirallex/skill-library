@@ -1,0 +1,12 @@
+{
+  "slug": "nano-pdf",
+  "displayName": "Nano Pdf",
+  "summary": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 54244,
+  "stars": 124,
+  "updatedAt": 1772065240363,
+  "collectedAt": "2026-03-13T01:37:00.034235+00:00",
+  "hasWarnings": true
+}

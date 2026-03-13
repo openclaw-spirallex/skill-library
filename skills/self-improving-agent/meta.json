@@ -1,0 +1,12 @@
+{
+  "slug": "self-improving-agent",
+  "displayName": "self-improving-agent",
+  "summary": "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau...",
+  "version": "3.0.1",
+  "author": "pskoett",
+  "downloads": 191463,
+  "stars": 1893,
+  "updatedAt": 1773230508805,
+  "collectedAt": "2026-03-13T01:35:10.430949+00:00",
+  "hasWarnings": true
+}

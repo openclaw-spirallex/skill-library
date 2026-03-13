@@ -1,0 +1,12 @@
+{
+  "slug": "himalaya",
+  "displayName": "Himalaya",
+  "summary": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIME Meta Language).",
+  "version": "1.0.0",
+  "author": "lamelas",
+  "downloads": 26572,
+  "stars": 50,
+  "updatedAt": 1772065836042,
+  "collectedAt": "2026-03-13T01:48:23.571532+00:00",
+  "hasWarnings": true
+}

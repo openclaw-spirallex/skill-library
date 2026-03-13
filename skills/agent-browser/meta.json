@@ -1,0 +1,12 @@
+{
+  "slug": "agent-browser",
+  "displayName": "Agent Browser",
+  "summary": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.",
+  "version": "0.2.0",
+  "author": "TheSethRose",
+  "downloads": 117607,
+  "stars": 526,
+  "updatedAt": 1773284512741,
+  "collectedAt": "2026-03-13T01:35:25.357273+00:00",
+  "hasWarnings": true
+}

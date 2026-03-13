@@ -1,0 +1,12 @@
+{
+  "slug": "clawddocs",
+  "displayName": "Clawdbot Documentation Expert",
+  "summary": "Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all Clawdbot features",
+  "version": "1.2.2",
+  "author": "NicholasSpisak",
+  "downloads": 27620,
+  "stars": 250,
+  "updatedAt": 1772065836042,
+  "collectedAt": "2026-03-13T01:47:43.654536+00:00",
+  "hasWarnings": true
+}

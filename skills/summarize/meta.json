@@ -1,0 +1,12 @@
+{
+  "slug": "summarize",
+  "displayName": "Summarize",
+  "summary": "Summarize URLs or files with the summarize CLI (web, PDFs, images, audio, YouTube).",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 142960,
+  "stars": 555,
+  "updatedAt": 1773139650650,
+  "collectedAt": "2026-03-13T01:35:19.765936+00:00",
+  "hasWarnings": true
+}

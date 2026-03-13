@@ -1,0 +1,12 @@
+{
+  "slug": "skill-vetter",
+  "displayName": "Skill Vetter",
+  "summary": "Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+  "version": "1.0.0",
+  "author": "spclaudehome",
+  "downloads": 77155,
+  "stars": 298,
+  "updatedAt": 1772065836042,
+  "collectedAt": "2026-03-13T01:36:21.695571+00:00",
+  "hasWarnings": true
+}

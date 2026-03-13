@@ -1,0 +1,12 @@
+{
+  "slug": "ontology",
+  "displayName": "ontology",
+  "summary": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+  "version": "1.0.4",
+  "author": "oswalpalash",
+  "downloads": 98625,
+  "stars": 255,
+  "updatedAt": 1773250316960,
+  "collectedAt": "2026-03-13T01:35:40.937457+00:00",
+  "hasWarnings": false
+}

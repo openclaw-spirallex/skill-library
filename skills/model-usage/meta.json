@@ -1,0 +1,12 @@
+{
+  "slug": "model-usage",
+  "displayName": "Model Usage",
+  "summary": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON.",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 23500,
+  "stars": 85,
+  "updatedAt": 1772065235893,
+  "collectedAt": "2026-03-13T01:49:02.341483+00:00",
+  "hasWarnings": true
+}

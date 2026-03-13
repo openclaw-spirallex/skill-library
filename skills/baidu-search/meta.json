@@ -1,0 +1,12 @@
+{
+  "slug": "baidu-search",
+  "displayName": "baidu web search",
+  "summary": "Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",
+  "version": "1.1.1",
+  "author": "ide-rea",
+  "downloads": 35900,
+  "stars": 82,
+  "updatedAt": 1773287521996,
+  "collectedAt": "2026-03-13T01:45:56.925792+00:00",
+  "hasWarnings": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "multi-search-engine",
+  "displayName": "Multi Search Engine",
+  "summary": "Multi search engine integration with 17 engines (8 CN + 9 Global). Supports advanced search operators, time filters, site search, privacy engines, and WolframAlpha knowledge queries. No API keys required.",
+  "version": "2.0.1",
+  "author": "gpyAngyoujun",
+  "downloads": 44244,
+  "stars": 239,
+  "updatedAt": 1772063741465,
+  "collectedAt": "2026-03-13T01:37:42.459116+00:00",
+  "hasWarnings": true
+}

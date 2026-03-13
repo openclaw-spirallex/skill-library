@@ -1,0 +1,12 @@
+{
+  "slug": "youtube-watcher",
+  "displayName": "YouTube Watcher",
+  "summary": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+  "version": "1.0.0",
+  "author": "Michaelgathara",
+  "downloads": 28639,
+  "stars": 206,
+  "updatedAt": 1772065840450,
+  "collectedAt": "2026-03-13T01:46:42.022550+00:00",
+  "hasWarnings": true
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "free-ride",
+  "displayName": "Free Ride - Unlimited free AI",
+  "summary": "Manages free AI models from OpenRouter for OpenClaw. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates opencla...",
+  "version": "1.0.4",
+  "author": "Shaivpidadi",
+  "downloads": 34088,
+  "stars": 255,
+  "updatedAt": 1772065840450,
+  "collectedAt": "2026-03-13T01:46:14.108966+00:00",
+  "hasWarnings": true
+}

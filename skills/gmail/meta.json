@@ -1,0 +1,12 @@
+{
+  "slug": "gmail",
+  "displayName": "Gmail",
+  "summary": "Gmail API integration with managed OAuth. Read, send, and manage emails, threads, labels, and drafts. Use this skill when users want to interact with Gmail. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": "byungkyu",
+  "downloads": 23209,
+  "stars": 60,
+  "updatedAt": 1772065836042,
+  "collectedAt": "2026-03-13T01:49:07.202580+00:00",
+  "hasWarnings": true
+}

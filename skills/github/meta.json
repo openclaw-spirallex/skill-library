@@ -1,0 +1,12 @@
+{
+  "slug": "github",
+  "displayName": "Github",
+  "summary": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+  "version": "1.0.0",
+  "author": "steipete",
+  "downloads": 101773,
+  "stars": 329,
+  "updatedAt": 1772065840450,
+  "collectedAt": "2026-03-13T01:35:32.181646+00:00",
+  "hasWarnings": true
+}

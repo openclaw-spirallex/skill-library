@@ -1,0 +1,12 @@
+{
+  "slug": "humanizer",
+  "displayName": "Humanizer",
+  "summary": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, negative\nparallelisms, and excessive conjunctive phrases.",
+  "version": "1.0.0",
+  "author": "biostartechnology",
+  "downloads": 50253,
+  "stars": 380,
+  "updatedAt": 1773185837479,
+  "collectedAt": "2026-03-13T01:37:11.930142+00:00",
+  "hasWarnings": true
+}
