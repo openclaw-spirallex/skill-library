@@ -1,0 +1,12 @@
+{
+    "slug": "opennotebook",
+    "displayName": "OpenNotebook",
+    "summary": "Control a self-hosted open-notebook instance (NotebookLM alternative) via CLI or API. Manage notebooks, add URL/file sources, search, ask questions (RAG), and view AI-generated insights.",
+    "version": "1.0.0",
+    "author": "spirallex",
+    "downloads": 0,
+    "stars": 0,
+    "updatedAt": 1742027000000,
+    "collectedAt": "2026-03-15T09:30:00.000000+00:00",
+    "hasWarnings": false
+}
