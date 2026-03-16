@@ -1,0 +1,12 @@
+{
+  "slug": "cxx",
+  "displayName": "C/C++ Comprehensive Cheat Sheets",
+  "summary": "Comprehensive C/C++ reference with examples from C11-C23 and C++11-C++23, covering system programming, CUDA, debugging, performance, and advanced topics.",
+  "version": "1.0.0",
+  "author": "crazyguitar",
+  "downloads": 0,
+  "stars": 0,
+  "updatedAt": 1773633850675,
+  "collectedAt": "2026-03-16T04:04:25.427368+00:00",
+  "hasWarnings": false
+}
